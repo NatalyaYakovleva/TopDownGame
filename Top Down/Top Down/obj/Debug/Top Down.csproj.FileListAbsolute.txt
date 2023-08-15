@@ -1,0 +1,10 @@
+E:\VisualStudioCommunity\WinForm\Перемещение гифки\Top Down\Top Down\bin\Debug\Top Down.exe.config
+E:\VisualStudioCommunity\WinForm\Перемещение гифки\Top Down\Top Down\bin\Debug\Top Down.exe
+E:\VisualStudioCommunity\WinForm\Перемещение гифки\Top Down\Top Down\bin\Debug\Top Down.pdb
+E:\VisualStudioCommunity\WinForm\Перемещение гифки\Top Down\Top Down\obj\Debug\Top Down.csprojAssemblyReference.cache
+E:\VisualStudioCommunity\WinForm\Перемещение гифки\Top Down\Top Down\obj\Debug\Top_Down.Form1.resources
+E:\VisualStudioCommunity\WinForm\Перемещение гифки\Top Down\Top Down\obj\Debug\Top_Down.Properties.Resources.resources
+E:\VisualStudioCommunity\WinForm\Перемещение гифки\Top Down\Top Down\obj\Debug\Top Down.csproj.GenerateResource.cache
+E:\VisualStudioCommunity\WinForm\Перемещение гифки\Top Down\Top Down\obj\Debug\Top Down.csproj.CoreCompileInputs.cache
+E:\VisualStudioCommunity\WinForm\Перемещение гифки\Top Down\Top Down\obj\Debug\Top Down.exe
+E:\VisualStudioCommunity\WinForm\Перемещение гифки\Top Down\Top Down\obj\Debug\Top Down.pdb
